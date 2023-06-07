@@ -4,7 +4,7 @@
   "description": "A next level tour page",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "complie:sass": "node-sass sass/main.scss css/style.css -w"
   },
   "author": "Suriyaa S",
   "license": "ISC",
